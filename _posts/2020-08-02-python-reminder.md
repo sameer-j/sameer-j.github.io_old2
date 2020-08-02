@@ -2,7 +2,7 @@
 
 https://sameer-j.github.io/python-gui-reminder-app/
 
-[![N|Solid](https://github.com/sameer-j/sameer-j.github.io/raw/master/assets/python-reminder.PNG)](https://nodesource.com/products/nsolid)
+![Python Reminder](images/python-reminder.PNG)
 
 A gui reminder app that I made to remind myself to do eye exercise after every few minutes while working in office. 
 
