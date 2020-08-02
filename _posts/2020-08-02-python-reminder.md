@@ -1,6 +1,6 @@
 # Python GUI Reminder App
 
-https://sameer-j.github.io/python-gui-reminder-app/
+See [https://sameer-j.github.io/python-gui-reminder-app/](https://sameer-j.github.io/python-gui-reminder-app/)
 
 ![Python Reminder](/images/python-reminder.PNG "python reminder app gui")
 
