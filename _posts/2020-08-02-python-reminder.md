@@ -2,7 +2,7 @@
 
 https://sameer-j.github.io/python-gui-reminder-app/
 
-![Python Reminder](images/python-reminder.PNG)
+![Python Reminder](/images/python-reminder.PNG "python reminder app gui")
 
 A gui reminder app that I made to remind myself to do eye exercise after every few minutes while working in office. 
 
