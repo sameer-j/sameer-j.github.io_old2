@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Sharing My Thoughts and Learnings
+title: Sameer Jain - Sharing My Thoughts and Learnings
 description: A blog to jot down my thoughts and learnings, to share it with the world ❤
 github_username: sameer-j
 
 # Email and twitter are optional:
 email: samir4nov@gmail.com
-twitter_username: __sameerj
+twitter_username: _sameer_j
 
 # Set this to true to get LaTeX math equation support
 use_math:
